@@ -1,0 +1,24 @@
+project,category,min_amount,max_amount
+Slum Rehabilitation - Sector 12,Material procurement,20000,60000
+Slum Rehabilitation - Sector 12,Labor payment,15000,40000
+Slum Rehabilitation - Sector 12,Structural work invoice,50000,150000
+Slum Rehabilitation - Sector 12,Machinery rental,10000,50000
+Slum Rehabilitation - Sector 12,Project management fee,20000,70000
+
+Road Widening Phase 2,Material procurement,30000,80000
+Road Widening Phase 2,Labor payment,20000,50000
+Road Widening Phase 2,Structural work invoice,70000,180000
+Road Widening Phase 2,Machinery rental,15000,60000
+Road Widening Phase 2,Project management fee,25000,75000
+
+Housing Project Zone B,Material procurement,25000,70000
+Housing Project Zone B,Labor payment,18000,45000
+Housing Project Zone B,Structural work invoice,60000,160000
+Housing Project Zone B,Machinery rental,12000,55000
+Housing Project Zone B,Project management fee,20000,65000
+
+Metro Line 3 - Subsystem Work,Material procurement,50000,150000
+Metro Line 3 - Subsystem Work,Labor payment,25000,60000
+Metro Line 3 - Subsystem Work,Structural work invoice,100000,250000
+Metro Line 3 - Subsystem Work,Machinery rental,20000,80000
+Metro Line 3 - Subsystem Work,Project management fee,30000,90000
